@@ -1,6 +1,6 @@
 anim8
 =====
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/anim8)](https://repl.it/github/UzayAnil/anim8)
 Animation library for [LÖVE](http://love2d.org).
 
 [![Build Status](https://travis-ci.org/kikito/anim8.png?branch=master)](https://travis-ci.org/kikito/anim8)
